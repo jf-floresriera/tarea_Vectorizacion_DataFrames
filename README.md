@@ -2,7 +2,7 @@
 
 **Autor:** Jesus Enrique Flores Riera  
 **Curso:** Programacion SIG  
-**Fecha:** Mayo 2026  
+
 
 ---
 
